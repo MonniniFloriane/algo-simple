@@ -12,6 +12,7 @@ public class Main {
         return total;
     }
 
+    // /////////EXO2
     public static String returnMotPlusLong(String[] tblMotPlusLong) {
         String motPlusLong = "";
 
